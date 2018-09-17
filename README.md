@@ -1,5 +1,5 @@
 # DialecticadelosColores
-Juego con estilo infantil-darks-psicodélico.
+Juego de pelea.
 
 Programación Orientada a Objetos: Primer proyecto.
 
